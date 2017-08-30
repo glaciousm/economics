@@ -1,0 +1,28 @@
+~super market,Wed Aug 30 13:06:00 EEST 2017,12.8
+~super market,Wed Aug 30 13:06:03 EEST 2017,12.8
+~Super Market,20/06/2017,501.0
+~Super Market,20/06/2017,501.0
+~Super Market,20/06/2017,501.0
+~Super Market,20/06/2017,501.0
+~Super Market,20/06/2017,2347.0
+~Super Market,20/06/2017,2347.0
+~Super Market,20/06/2017,2347.0
+~Super Market,20/06/2017,3242343.0
+~Super Market,20/06/2017,42332.0
+~Super Market,20/06/2017,2005.0
+~Super Market,20/06/2017,128.0
+~Super Market,,0.0
+~Super Market,,0.0
+~Super Market,,0.0
+~Super Market,312312,0.0
+~Super Market,312,0.0
+~Coffee,312,0.0
+~OASA,30/08/2017,30.0
+~OASA
+,d MMM yyyy,10.0
+~OASA
+,1 Αυγ 2017 4:38:59 μμ,10.0
+~OASA
+,Wed Aug 09 16:40:39 EEST 2017,10.0
+~OASA
+,15/08/2017,10.0
